@@ -1,0 +1,88 @@
+Atividade 4 
+
+Crie um txt e faça um upload no GitHub ou qualquer outra nuvem de prefencia.
+
+
+Cite as Definições de cada item, conforme pesquisa em livros, internet, definições vista em aula.
+
+
+
+Classe (1 esc)
+
+
+RESPOSTA:
+É um gabarito para a definição de objetos na POO, descreve que propriedades ou atributos o objeto terá, 
+descreve também qual o comportamento de objetos da classe quais funcionalidades podem ser aplicadas a tais objetos.
+
+
+
+Método (1 esc)
+
+RESPOSTA:
+Equivalente a um procedimento ou função,ele manipula apenas suas variáveis locais e os atributos que foram
+ definidos para a classe.É composta por:
+	nome: um identificador para o método.
+	tipo: quando o método tem um valor de retorno, o tipo desse valor.
+	lista de argumentos: quando o método recebe parâmetros para sua execução, o tipo e um identificador para cada parâmetro.
+	visibilidade: como para atributos, define o quão visível é um método a partir de objetos de outras classes.
+
+
+
+
+Objeto (1 esc)
+
+RESPOSTA:
+Elemento computacional que representa alguma entidade (abstrata ou concreta) do domínio de interesse do problema sob análise.
+
+
+
+
+
+Defina API (2 esc)
+
+
+
+RESPOSTA:
+"Application Programming Interface" que significa "Interface de Programação de Aplicativos", é um conjunto de padrões que 
+fazem parte de uma interface baseada na Web e que permitem a criação de interfaces de maneira mais simples e prática para desenvolvedores em
+diversos tipos de plataformas. em outras palavras, permite interoperabilidade entre usuarios e aplicações.
+
+
+
+Cite 2 APIS abertas, podendo ser encontradas na internet (2 Esc)
+
+RESPOSTA:
+1- Nasa
+A API da Nasa é ideal se você deseja acessar dados de astronomia e imagens de planetas e galáxias (precisa de registro).
+
+2- JSON Placeholder
+É um serviço REST on-line gratuito que você pode usar sempre que precisar de alguns dados para exibir em suas aplicações. É ótimo para ser usado em tutoriais e simula um servidor, compartilhando exemplos de código.
+Você pode simular requisições HTTP com GET, POST, PUT e DELETE (não precisa registro).
+
+
+
+
+
+Disserte sobre a lib cURL e SOAP (2 esc)
+
+
+RESPOSTA:
+LibcURL é uma biblioteca de transferência de URL do lado do cliente.cURL é uma ferramenta de linha de comando utilizada para obter ou enviar dados, incluindo arquivos, usando a sintaxe URL.
+suporta vários protocolos de rede comuns, incluindo HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, LDAP, DAP, DICT, TELNET, ARQUIVO, IMAP, POP3, SMTP e RTSP.
+
+O SOAP é:
+Envelope das mensagens, regras de codificação, convenção RPC(chamada de procedimento remoto), ligação com protocolos subjacentes.
+Mecanismo:
+	 para definir a unidade de comunicação;
+	 para lidar com erros;		
+	 de extensão que permite evolução;
+	 entre as mensagens SOAP e o HTTP, que permite representar tipos de dados em XML.
+
+
+
+
+Cite com suas palavras o que é uma API REST.
+
+RESPOSTA:
+REST é a sigla em inglês para Transferência de Estado Representacional. Consiste em princípios/regras/constraints que, 
+quando seguidas, permitem a criação de um projeto com interfaces bem definidas. Desta forma, permitindo, por exemplo, que aplicações se comuniquem.
